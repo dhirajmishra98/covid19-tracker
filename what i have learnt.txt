@@ -1,0 +1,6 @@
+->Rest Apis - post,get method
+->json format uses from model class and manually indexing
+->piechart
+->passing data through contructor and pass it from one class to other (widget.variableName)
+->shimmer effect
+
